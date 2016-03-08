@@ -1,12 +1,10 @@
 <!doctype html>
-<html lang="pt - BR">
+<html lang="en">
 <head>
-     <meta charset="UTF-8" />
-     <title>Página inicial do projeto</title>
-     <link rel="stylesheet" href="bootstrap/min.css">
-     </head>
-     <body>
-         <h1>Página inicial do projeto</h1>
-         <?php print "Impresso em PHP";?>
-     </body>
-     </html>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
